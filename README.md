@@ -1,7 +1,7 @@
 ## Hi, I'm Chris 👋🏽
 
 👨🏽‍💻 Computer Science student at GCU <br>
-💻 Currently teaching myself DJango & Typescript to better enhanced my skills as a Web Developer <br>
+💻 Currently Creating a Game Shop Web App using MERN Stack <br>
 👾 Updating my portfolio daily to stay consistent <br>
 📱 I will be making videos in the  near future to help others <br>
 
